@@ -34,7 +34,7 @@
 #user-rollover.id-5220843 .badge-box > i.bdg
 {
     border-radius:       6px;
-    background-image:    url("https://nightbloo.github.io/plug/custom-badges/laquett.png");
+    background-image:    url("https://raw.githubusercontent.com/Imanolix/PlugTempest/master/Imanolixpic.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -120,6 +120,15 @@ animation:rainbow 10s infinite;
 .id-3828485 > .badge-box > i.bdg
 {
     background-image:    url("https://nightbloo.github.io/plug/custom-badges/s4nari.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
+/* Imanolix */
+#user-rollover.id-5220843 .badge-box > i.bdg
+{
+    background-image:    url("https://raw.githubusercontent.com/Imanolix/PlugTempest/master/Imanolixpic.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
