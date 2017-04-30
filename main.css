@@ -30,6 +30,16 @@
     background-position: center center;
 }
 
+/* Imanolix */
+#user-rollover.id-5220843 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://nightbloo.github.io/plug/custom-badges/laquett.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 #user-rollover.id-4093788 .username:hover,
 #chat [data-cid^="4093788-"] span.un.clickable:hover {
 animation:rainbow 10s infinite;
@@ -218,10 +228,10 @@ div.message > div.msg > div.from > span.un
 .message.role-host,
 .emote.role-host
 {
-    border-top:    #f39c12 2px dotted;
-    border-left:   #f39c12 2px dotted;
-    border-bottom: #f39c12 2px dotted;
-    border-right:  #f39c12 2px dotted;
+    border-top:    #c0392b 2px dotted;
+    border-left:   #c0392b 2px dotted;
+    border-bottom: #c0392b 2px dotted;
+    border-right:  #c0392b 2px dotted;
 }
 
 .message.role-host:hover,
@@ -238,7 +248,7 @@ div.message > div.msg > div.from > span.un
 .message.role-host > .msg > .text::-moz-selection,
 .emote.role-host > .msg > .text::-moz-selection
 {
-    color: #f39c12;
+    color: #c0392b;
 }
 
 .message.role-cohost > .msg > .text::selection,
