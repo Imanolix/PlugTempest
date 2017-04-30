@@ -1,7 +1,7 @@
 {
   "room": "Tempest",
   "author": "Imanolix",
-  "icon": "https://pbs.twimg.com/profile_images/830479302550552580/rsp7ZlrL.jpg",
+  "icon": "https://raw.githubusercontent.com/Imanolix/PlugTempest/master/pluggy.jpg",
   "css": "https://raw.githubusercontent.com/Imanolix/PlugTempest/master/main.css",
   "rules": {
     "allowAutorespond": true,
