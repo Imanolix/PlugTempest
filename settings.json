@@ -1,0 +1,57 @@
+{
+  "room": "Tempest",
+  "author": "Imanolix",
+  "icon": "https://pbs.twimg.com/profile_images/830479302550552580/rsp7ZlrL.jpg",
+  "css": "https://nightbloo.github.io/plug/main.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#F2693E",
+    "cohost": "#CC3333",
+    "manager": "#9552cc",
+    "bouncer": "#3083FF",
+    "rdj": "#33CCFF",
+    "subscriber": null,
+    "friend": null,
+    "user": null
+  },
+  "images": {
+    "background": "https://nightbloo.github.io/plug/background/nb3DJ6.png",
+    "playback": "https://nightbloo.github.io/plug/background/nb3DJvideo.png",
+    "admin": null,
+    "ambassador": null,
+    "host": "https://laquett.github.io/nightbloo.github.io/plug/icons/host.png",
+    "cohost": "https://laquett.github.io/nightbloo.github.io/plug/icons/co-host.png",
+    "manager": "https://laquett.github.io/nightbloo.github.io/plug/icons/manager.png",
+    "bouncer": "https://laquett.github.io/nightbloo.github.io/plug/icons/bouncer.png",
+    "rdj": "https://nightbloo.github.io/plug/icons/rdj.png",
+    "subscriber": null,
+    "other": null
+  },
+  "emotes": {
+    "pepepls": "https://nightbloo.github.io/plug/custom-emotes/PepePls.gif",
+    "lolidance": "https://nightbloo.github.io/plug/custom-emotes/loliDance.gif",
+    "domlove": "https://nightbloo.github.io/plug/custom-emotes/domLove.png",
+    "domevil": "https://nightbloo.github.io/plug/custom-emotes/domEvil.png",
+    "domrage": "https://nightbloo.github.io/plug/custom-emotes/domRage.png",
+    "domragel": "https://nightbloo.github.io/plug/custom-emotes/domRageL.png",
+    "domcry": "https://nightbloo.github.io/plug/custom-emotes/domCry.png",
+    "feelsbirthdayman": "https://nightbloo.github.io/plug/custom-emotes/feelsbirthdayman.png",
+    "heygasm": "https://nightbloo.github.io/plug/custom-emotes/heygasm.png",
+    "dankwithit": "https://nightbloo.github.io/plug/custom-emotes/dankwithit.gif",
+    "feelsfuckyouman": "https://nightbloo.github.io/plug/custom-emotes/feelsfuckyouman.png",
+    "dankpls": "https://nightbloo.github.io/plug/custom-emotes/dankpls.png",
+    "freshprincedance": "https://nightbloo.github.io/plug/custom-emotes/freshprincedance.gif",
+    "russiandance": "https://nightbloo.github.io/plug/custom-emotes/russiandance.gif"
+  }
+}
