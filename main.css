@@ -126,7 +126,7 @@ animation:rainbow 10s infinite;
 }
 
 /* Imanolix */
-#user-rollover.id-5220843 .badge-box > i.bdg
+.id-5220843 > .badge-box > i.bdg
 {
     background-image:    url("https://raw.githubusercontent.com/Imanolix/PlugTempest/master/Imanolixpic.png");
     background-size:     cover;
@@ -149,6 +149,12 @@ div.message > div.msg > div.from > span.un
 {
     background: url("https://nightbloo.github.io/plug/icons/dom.png") no-repeat !important;
 }
+
+.id-5220843 > .msg > .from > i.icon-chat-subscriber
+{
+    background: url("https://raw.githubusercontent.com/Imanolix/PlugTempest/master/Imanolixpic.png") no-repeat !important;
+}
+
 
 /* Grab, woot, meh buttons */
 #woot i.icon
