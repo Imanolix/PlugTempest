@@ -2,7 +2,7 @@
   "room": "Tempest",
   "author": "Imanolix",
   "icon": null,
-  "css": "https://github.com/Imanolix/PlugTempest/blob/master/main.css",
+  "css": "https://raw.githubusercontent.com/Imanolix/PlugTempest/master/main.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
