@@ -2,7 +2,7 @@
   "room": "Tempest",
   "author": "Imanolix",
   "icon": "https://raw.githubusercontent.com/Imanolix/PlugTempest/master/pluggy.jpg",
-  "css": "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css?v=1",
+  "css": "https://nightbloo.github.io/plug/settings.json",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
