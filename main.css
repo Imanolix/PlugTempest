@@ -218,10 +218,10 @@ div.message > div.msg > div.from > span.un
 .message.role-host,
 .emote.role-host
 {
-    border-top:    #F2693E 2px dotted;
-    border-left:   #F2693E 2px dotted;
-    border-bottom: #F2693E 2px dotted;
-    border-right:  #F2693E 2px dotted;
+    border-top:    #f39c12 2px dotted;
+    border-left:   #f39c12 2px dotted;
+    border-bottom: #f39c12 2px dotted;
+    border-right:  #f39c12 2px dotted;
 }
 
 .message.role-host:hover,
@@ -238,7 +238,7 @@ div.message > div.msg > div.from > span.un
 .message.role-host > .msg > .text::-moz-selection,
 .emote.role-host > .msg > .text::-moz-selection
 {
-    color: #F46B40;
+    color: #f39c12;
 }
 
 .message.role-cohost > .msg > .text::selection,
